@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mm0202/speedtest/blob/master/LICENSE)
+[![License: MIT License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mm0202/speedtest/blob/master/LICENSE)
 
 # 内容
 スピードテストの定期的実行
