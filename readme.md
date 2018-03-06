@@ -1,5 +1,6 @@
 ## License
-MIT
+* MIT
+    * see LICENSE
 
 # 内容
 スピードテストの定期的実行
